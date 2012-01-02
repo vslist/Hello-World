@@ -1,8 +1,10 @@
 _this is the second file added.
 
 1st batch of changes to secondFile {
-	aa
-	bb
+	ada
+	bbs
+gggggggggggggggg
+uuuuuuuuuuuuuuuu
 	vv
 	jj
 }
