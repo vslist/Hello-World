@@ -6,3 +6,7 @@ _this is the second file added.
 	vv
 	jj
 }
+
+2st batch of changes to secondFile {
+sdfghgdf
+}
